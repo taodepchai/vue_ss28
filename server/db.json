@@ -1,0 +1,57 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Throwback Hip Bag",
+      "price": 30,
+      "total": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit.",
+      "image": "https://i.pinimg.com/originals/08/55/c4/0855c4c2f8dbea849735f04d88273db7.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Lie Lie Bag",
+      "price": 30,
+      "total": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit.",
+      "image": "https://i.pinimg.com/originals/ec/22/0f/ec220f1dd250d45b287adde2810d2950.png"
+    },
+    {
+      "id": "3",
+      "name": "Beautiful Handbag",
+      "price": 30,
+      "total": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit.",
+      "image": "https://i.pinimg.com/originals/6c/94/a0/6c94a055aa39bc554f6795b2be28e278.jpg"
+    }
+  ],
+  "cart": [
+    {
+      "id": "1",
+      "name": "Throwback Hip Bag",
+      "price": 30,
+      "total": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit.",
+      "image": "https://i.pinimg.com/originals/08/55/c4/0855c4c2f8dbea849735f04d88273db7.jpg",
+      "quantity": 1
+    },
+    {
+      "id": "2",
+      "name": "Lie Lie Bag",
+      "price": 30,
+      "total": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit.",
+      "image": "https://i.pinimg.com/originals/ec/22/0f/ec220f1dd250d45b287adde2810d2950.png",
+      "quantity": 1
+    },
+    {
+      "id": "3",
+      "name": "Beautiful Handbag",
+      "price": 30,
+      "total": 20,
+      "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit.",
+      "image": "https://i.pinimg.com/originals/6c/94/a0/6c94a055aa39bc554f6795b2be28e278.jpg",
+      "quantity": 1
+    }
+  ]
+}
